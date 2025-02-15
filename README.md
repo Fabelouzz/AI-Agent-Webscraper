@@ -31,10 +31,10 @@ The project consists of three main components:
 ## Clone the Repository
 
    ```sh
-   git clone <repository-url>
-   cd AI-Web-Scraper
-
-   # Setup the Virtual Environment
+   git clone <https://github.com/Fabelouzz/AI-Agent-Webscraper>
+   cd AI-Agent-Webcraper
+```
+   ## Setup the Virtual Environment
 
 ```bash
 python -m venv scrapeenv
